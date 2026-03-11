@@ -26,4 +26,4 @@ El estudio realiza una comparativa exhaustiva entre diferentes modelos para capt
 * `Proyecto_AARN.ipynb`: Notebook principal con la carga de datos, arquitectura de los modelos y entrenamiento.
 * `model.path`: Pesos del modelo entrenado (PyTorch).
 * `/data`: Conjuntos de datos en formato JSON procesados desde Open Data Euskadi.
-* `/docs`: Informe técnico detallado con el análisis de resultados y comparativa de modelos.
+* `Predicciones_Covid.pdf`: Informe técnico detallado con el análisis de resultados y comparativa de modelos.
